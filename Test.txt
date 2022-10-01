@@ -9,3 +9,6 @@ Atualizações:
 git add . 
 git commit -m "Descrição"
 git push
+
+
+// Atualizando pela primeira vez
