@@ -1,0 +1,11 @@
+instalação
+git init
+git add .
+git commit -m "Descrição"
+git remote add origin [LINK do Repositório, tirar colchetes]  //vai ter q logar no terminal
+git push --set-upstream origin master
+
+Atualizações:
+git add . 
+git commit -m "Descrição"
+git push
